@@ -1,4 +1,4 @@
-# Image CLassifier
+# Image Classifier
 
 This project is Image Classifier using tensorflow and keras. there are several criteria in this project such as:
 - Dataset : https://github.com/dicodingacademy/assets/releases/download/release/rockpaperscissors.zip
